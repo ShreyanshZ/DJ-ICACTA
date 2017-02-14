@@ -1,0 +1,52 @@
+#content section card
+{
+	width:100%;
+	overflow:hidden;
+	background:red;
+}
+
+#content section card .left
+{
+	width:25%;
+	height:auto;
+	background:red;
+	display:inline-block;
+}
+
+#content section card .right
+{
+	width:75%;
+	height:auto;
+	background:green;
+	display:inline-block;
+
+}
+
+
+#content #card .left
+		{
+			width:13em;
+			text-align:center;
+			height:auto;
+			background:#F0F5FA;
+			display:table-cell;
+			vertical-align: middle;
+			padding:.2em 2em;
+			box-shadow: 2px 2px 2px 1px rgba(128,128,128,0.1);
+			font-weight:285;
+			
+		}
+
+		#content #card .right
+		{
+			
+			height:auto;
+			text-align:left !important;
+			display:table-cell;
+			vertical-align: middle;
+			width:30em;
+			
+			background:#F0F5FA;
+			padding:.2em 1.5em;
+			box-shadow: 2px 2px 2px 1px rgba(128,128,128,0.1);
+		}

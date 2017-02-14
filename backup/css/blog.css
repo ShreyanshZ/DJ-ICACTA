@@ -1,0 +1,27 @@
+section #article
+{
+	border-bottom:1px solid #C9CFD1;
+	overflow:hidden;
+	padding:10px;
+}
+
+
+section #article #title{
+		
+		font-weight:600 !important;
+		
+		}
+		
+		#description{
+		font-weight:300 !important;
+		color: grey !important;
+		
+		}
+	
+section a #article:hover
+{
+	background:#F0F5FA;
+
+}	
+		
+		
